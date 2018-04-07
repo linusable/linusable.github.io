@@ -1,4 +1,5 @@
 # linusable.github.io
 personnal GitHub website
-## Website adress
+## Websites
   https://linusable.github.io/
+  [Jekyll documentation](https://jekyllrb.com/docs/home/)
