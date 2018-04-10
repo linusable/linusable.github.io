@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+remote_theme: "mmistakes/so-simple-theme"
 title: Linusable's GitHub homepage
 description: Public personnal webpages for some professionnal, associative and private projects.
 timezone: Europe/Brussels
